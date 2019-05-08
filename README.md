@@ -1,6 +1,6 @@
 # Analysis-Neuronal-Data
 
-Scripts for the Analysis of neuronal responses acquired using 2-photon Ca2+ imaging
+Scripts for the analysis of neuronal responses acquired using 2-photon Ca2+ imaging
 
 Plotting and analysing correlations of neuronal response size across different recording sessions
 and different experimental groups: 
