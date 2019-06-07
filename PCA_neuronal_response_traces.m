@@ -9,6 +9,7 @@ clc
 % 3. do PCA
 % 4. project averages response traces for the different stimuli and time
 % points into the space of the first 3 principal components
+% 5. Calculate the euclidean distance of the trajectories and plot it over time 
 
 
 %% load data to get all df-f traces for all subjects (mice)
